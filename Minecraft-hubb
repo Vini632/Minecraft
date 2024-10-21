@@ -1,0 +1,199 @@
+
+
+1. Arquivo index.html (Página Inicial)
+
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Minecraft Hub - Tudo sobre Minecraft</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>Minecraft Hub</h1>
+    <nav>
+      <ul>
+        <li><a href="index.html">Início</a></li>
+        <li><a href="servidores.html">Servidores</a></li>
+        <li><a href="mods.html">Mods</a></li>
+        <li><a href="skins.html">Skins</a></li>
+        <li><a href="atualizacoes.html">Atualizações</a></li>
+        <li><a href="contato.html">Contato</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <section class="welcome">
+      <h2>Bem-vindo ao Minecraft Hub!</h2>
+      <p>Explore servidores, mods, skins e as últimas atualizações do jogo.</p>
+      <img src="minecraft-world.jpg" alt="Mundo Minecraft" class="hero-image">
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2024 Minecraft Hub. Todos os direitos reservados.</p>
+  </footer>
+</body>
+</html>
+
+
+---
+
+2. Arquivo servidores.html (Servidores)
+
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Servidores - Minecraft Hub</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>Minecraft Hub</h1>
+    <nav>
+      <ul>
+        <li><a href="index.html">Início</a></li>
+        <li><a href="servidores.html">Servidores</a></li>
+        <li><a href="mods.html">Mods</a></li>
+        <li><a href="skins.html">Skins</a></li>
+        <li><a href="atualizacoes.html">Atualizações</a></li>
+        <li><a href="contato.html">Contato</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <h2>Servidores Populares</h2>
+    <ul>
+      <li><strong>Hypixel</strong> – Servidor com minigames e modos criativos.</li>
+      <li><strong>Mineplex</strong> – Conhecido por seus jogos PvP.</li>
+      <li><strong>PixelmonCraft</strong> – Servidor que combina Minecraft e Pokémon.</li>
+      <li><strong>Skyblock</strong> – Um dos modos mais jogados no mundo!</li>
+    </ul>
+  </main>
+
+  <footer>
+    <p>&copy; 2024 Minecraft Hub. Todos os direitos reservados.</p>
+  </footer>
+</body>
+</html>
+
+
+---
+
+3. Arquivo mods.html (Mods)
+
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mods - Minecraft Hub</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>Minecraft Hub</h1>
+    <nav>
+      <ul>
+        <li><a href="index.html">Início</a></li>
+        <li><a href="servidores.html">Servidores</a></li>
+        <li><a href="mods.html">Mods</a></li>
+        <li><a href="skins.html">Skins</a></li>
+        <li><a href="atualizacoes.html">Atualizações</a></li>
+        <li><a href="contato.html">Contato</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <h2>Mods Populares</h2>
+    <ul>
+      <li><strong>OptiFine</strong> – Melhora o desempenho do jogo.</li>
+      <li><strong>Biomes O' Plenty</strong> – Adiciona novos biomas.</li>
+      <li><strong>Industrial Craft</strong> – Introduz máquinas e tecnologia.</li>
+      <li><strong>RLCraft</strong> – Um dos mods mais difíceis!</li>
+    </ul>
+  </main>
+
+  <footer>
+    <p>&copy; 2024 Minecraft Hub. Todos os direitos reservados.</p>
+  </footer>
+</body>
+</html>
+
+
+---
+
+4. Arquivo styles.css (Estilo CSS)
+
+body {
+  background-color: #1d1d1d;
+  color: white;
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #4caf50;
+  padding: 20px;
+  text-align: center;
+}
+
+nav ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+nav ul li {
+  display: inline;
+  margin: 0 15px;
+}
+
+nav ul li a {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.hero-image {
+  width: 100%;
+  max-width: 600px;
+  display: block;
+  margin: 20px auto;
+}
+
+main {
+  padding: 20px;
+}
+
+footer {
+  background-color: #4caf50;
+  text-align: center;
+  padding: 10px;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+
+
+---
+
+Como Colocar o Site Online
+
+1. Faça o download do código completo e crie os arquivos mencionados acima.
+
+
+2. Envie para o GitHub Pages ou uma plataforma como Netlify ou Vercel.
+
+
+3. Seu site estará disponível com um link público.
+
+
+
